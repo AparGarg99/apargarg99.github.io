@@ -1,5 +1,5 @@
 ### About Me
-👨‍🎓 Student at [National University of Singapore (NUS)](https://www.nus.edu.sg/). Pursuing M.Tech. in Intelligent Systems.
+👨‍🎓 Student at [National University of Singapore (NUS)](https://www.nus.edu.sg/). Pursuing MTech in Intelligent Systems.
 
 🎯 My aim is to build digital solutions using Data Science that solve real-world 🌍 problems. 
 
