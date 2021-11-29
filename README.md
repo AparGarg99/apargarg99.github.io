@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23BC21F7&lines=Namaste%F0%9F%99%8F;I+am+Apar+Garg;Data+Scientist;Open+source+magician)](https://git.io/typing-svg)
-
 ### About Me
 👨‍🎓 Student at [National University of Singapore (NUS)](https://www.nus.edu.sg/). Pursuing MTech in Intelligent Systems.
 
