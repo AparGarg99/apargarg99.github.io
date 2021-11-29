@@ -37,6 +37,7 @@
 [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
 [![Medium](http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)][medium]
 
-
 <br/>
 Let's connect 👨‍💻 and forge the future together.😁✌
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F79F55&size=22&lines=Thanks+for+checking+out+my+profile.;Hope+you+enjoyed+%F0%9F%99%82)](https://git.io/typing-svg)
