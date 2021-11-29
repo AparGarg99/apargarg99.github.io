@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23BC21F7&size=24&lines=Namaste%F0%9F%99%8F;I+am+Apar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F79F55&size=25&lines=Namaste%F0%9F%99%8F;I+am+Apar)](https://git.io/typing-svg)
 ### About Me
 👨‍🎓 Student at [National University of Singapore (NUS)](https://www.nus.edu.sg/). Pursuing MTech in Intelligent Systems.
 
