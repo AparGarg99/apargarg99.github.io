@@ -38,6 +38,9 @@
 [![Medium](http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)][medium]
 
 <br/>
+
 Let's connect 👨‍💻 and forge the future together.
+
 <br/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F79F55&size=22&lines=Thanks+for+checking+out+my+profile.;Hope+you+enjoyed+🙂+✌)](https://git.io/typing-svg)
