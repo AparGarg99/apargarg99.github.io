@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F79F55&size=25&lines=Namaste%F0%9F%99%8F;I+am+Apar)](https://git.io/typing-svg)
 ### About Me
-👨‍🎓 Student at [National University of Singapore (NUS)](https://www.nus.edu.sg/). Pursuing MTech in Intelligent Systems.
+👨‍💻 Data Scientist at [Real Estate Analytics](https://www.realestateanalytics.sg/).
+
+👨‍🎓 MTech in Intelligent Systems from [National University of Singapore (NUS)](https://www.nus.edu.sg/).
 
 🎯 My aim is to build digital solutions using Data Science that solve real-world 🌍 problems. 
 
