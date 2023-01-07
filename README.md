@@ -38,7 +38,7 @@
 
 [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
 [![Medium](http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)][medium]
-
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 Let's connect 👨‍💻 and forge the future together.
 
