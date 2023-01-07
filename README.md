@@ -36,9 +36,7 @@
 [linkedin]: https://www.linkedin.com/in/apargarg99/
 [medium]: https://apargarg99.medium.com/
 
-[![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
 
 Let's connect 👨‍💻 and forge the future together.
