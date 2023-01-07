@@ -30,7 +30,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 #### Cloud Platform:
-
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -45,11 +44,11 @@
 
 #### Version Control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+<br><br>
 
 ## Checkout my blogs
 [![](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=apargarg99&type=horizontal&limit=2)](https://medium.com/@apargarg99)
-
+<br><br>
 
 ## Connect with me
 [linkedin]: https://www.linkedin.com/in/apargarg99/
@@ -60,6 +59,6 @@
 
 Let's connect 👨‍💻 and forge the future together.
 
-<br/>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F79F55&size=22&lines=Thanks+for+checking+out+my+profile.;Hope+you+enjoyed+🙂+✌)](https://git.io/typing-svg)
