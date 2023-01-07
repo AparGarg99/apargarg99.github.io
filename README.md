@@ -11,8 +11,7 @@
 🌱 I like to keep myself updated with trending research in Deep Learning.
  
 ***Checkout my <a href="https://github.com/AparGarg99?tab=repositories">Repositories</a> and don't forget to give a ⭐***
-
-
+<br>
 
 ## Languages and Tools
 #### Programming Language:
