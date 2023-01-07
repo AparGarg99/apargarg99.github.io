@@ -16,6 +16,7 @@
 ---
 ### Languages and Tools
 
+* **Programming Language:**
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=FFFFFF)
@@ -36,6 +37,7 @@
 [linkedin]: https://www.linkedin.com/in/apargarg99/
 [medium]: https://apargarg99.medium.com/
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)][linkedin]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
 
