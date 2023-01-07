@@ -14,7 +14,6 @@
 ***Checkout my <a href="https://github.com/AparGarg99?tab=repositories">Repositories</a> and don't forget to give a ⭐***
 
 ---
-
 ## Languages and Tools
 #### Programming Language:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
