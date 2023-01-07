@@ -13,7 +13,7 @@
 
 ***Checkout my <a href="https://github.com/AparGarg99?tab=repositories">Repositories</a> and don't forget to give a ⭐***
 
----
+
 ## Languages and Tools
 #### Programming Language:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -47,12 +47,10 @@
 #### Version Control:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
 
 ## Checkout my blogs
 [![](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=apargarg99&type=horizontal&limit=2)](https://medium.com/@apargarg99)
 
----
 
 ## Connect with me
 [linkedin]: https://www.linkedin.com/in/apargarg99/
