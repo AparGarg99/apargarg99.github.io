@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F79F55&size=25&lines=Namaste%F0%9F%99%8F;I+am+Apar)](https://git.io/typing-svg)
-### About Me
+## About Me
 👨‍💻 Data Scientist at [Real Estate Analytics](https://www.realestateanalytics.sg/).
 
 👨‍🎓 MTech in Intelligent Systems from [National University of Singapore (NUS)](https://www.nus.edu.sg/).
@@ -14,11 +14,11 @@
 ***Checkout my <a href="https://github.com/AparGarg99?tab=repositories">Repositories</a> and don't forget to give a ⭐***
 
 ---
-### Languages and Tools
+## Languages and Tools
 
 
 
-**Programming Language:**
+### Programming Language:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
