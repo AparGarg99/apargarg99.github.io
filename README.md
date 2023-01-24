@@ -53,9 +53,11 @@
 ## Connect with me
 [linkedin]: https://www.linkedin.com/in/apargarg99/
 [medium]: https://apargarg99.medium.com/
+[google scholar]: https://scholar.google.com/citations?user=QzebhJ8AAAAJ&hl=en
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)][google scholar]
 
 Let's connect 👨‍💻 and forge the future together.
 <br>
